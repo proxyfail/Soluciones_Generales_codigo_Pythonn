@@ -1,1 +1,1 @@
-# Proyectos-de-c-digo-general
+Este repositorio de Github es utilizado para subir el codigo de diferentes soluciones a problemas. Todo esta desarrollado en Pyton. Tambien podemos encontrar diferentes archivos BASH para automatizar tareas.
